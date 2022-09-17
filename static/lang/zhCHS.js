@@ -28,6 +28,8 @@ module.exports = {
         index_25:'链游收益分红',
         index_26:'路线图',
         index_27:'合作伙伴',
+        index_28:'NFT数量：',
+        index_29:'总计：',
 
 
         f_1:'全网总算力（H/s）',
