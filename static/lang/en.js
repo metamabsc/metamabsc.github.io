@@ -28,6 +28,8 @@ module.exports = {
         index_25:'Platform development dividend',
         index_26:'Road map',
         index_27:'partner',
+        index_28:'Number of NFT:',
+        index_29:'Total ：',
 
         f_1:'Total pool（H/s）',
         f_2:'Global dividend',
