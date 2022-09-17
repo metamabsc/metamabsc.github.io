@@ -30,6 +30,7 @@ module.exports = {
         index_27:'合作伙伴',
         index_28:'NFT数量：',
         index_29:'总计：',
+        index_30:'NFT数量：',
 
 
         f_1:'全网总算力（H/s）',
