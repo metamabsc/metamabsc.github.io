@@ -30,6 +30,7 @@ module.exports = {
         index_27:'partner',
         index_28:'Number of NFT:',
         index_29:'Total ：',
+        index_29:'Number of NFT:',
 
         f_1:'Total pool（H/s）',
         f_2:'Global dividend',
@@ -46,7 +47,7 @@ module.exports = {
         f_13:'Balance：',
         f_14:'Approve',
         f_15:'Confirm',
-        f_16:'* Note: starting from 100H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
+        f_16:'* Note: starting from 1000H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
         f_17:'Partners',
         // f_18:'伙伴',
         f_19:' price',
@@ -66,8 +67,8 @@ module.exports = {
         f_32:'Static total revenue',
         f_33:'Dynamic total revenue',
         f_34:'Total dividend income',
-        f_35:'GNS total revenue',
-        f_36:'GNS contracts',
+        f_35:'Flare total revenue',
+        f_36:'Flare contracts',
         f_37:'My invitation link ',
 
 
@@ -123,10 +124,11 @@ module.exports = {
         m_10:'Audit report',
         m_11:'About us',
         m_12:'Fans plan',
+        m_13:'White paper',
 
 
-        min:'Minimum 100USDT starting.',
-        max:'A single transaction cannot exceed 5000USDT',
+        min:'Minimum 1000USDT starting.',
+        max:'A single transaction cannot exceed 50000USDT',
         noAccredit:'unauthorized',
         noNum:"The amount cannot be less than 0",
         copySuccee:"Copy successful!",
@@ -140,7 +142,7 @@ module.exports = {
         noMask:"Please open it using the blockchain DApp browser.",
         accredit:"Authorization succeeded!",
         time:"Countdown to dividend",
-        yu:"Enter a USDT multiple of 100",
+        yu:"Enter a USDT multiple of 1000",
         tips3:'Stay tuned!'
     }
 };
