@@ -46,7 +46,7 @@ module.exports = {
         f_13:'Balance：',
         f_14:'Approve',
         f_15:'Confirm',
-        f_16:'* Note: starting from 100H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
+        f_16:'* Note: starting from 1000H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
         f_17:'Partners',
         // f_18:'伙伴',
         f_19:' price',
@@ -66,8 +66,8 @@ module.exports = {
         f_32:'Static total revenue',
         f_33:'Dynamic total revenue',
         f_34:'Total dividend income',
-        f_35:'GNS total revenue',
-        f_36:'GNS contracts',
+        f_35:'Flare total revenue',
+        f_36:'Flare contracts',
         f_37:'My invitation link ',
 
 
@@ -108,6 +108,10 @@ module.exports = {
         f_67:'Total',
         f_68:'piece',
         f_69:'NFT card list',
+        f_70:' Number of NFTS cast / Number of remaining NFTS:',
+        f_71:'*Note: You can cast up to 100 NFTS at a time.',
+        f_72:'Casting NFT',
+        f_73:'Number of casting',
 
 
 
@@ -126,8 +130,8 @@ module.exports = {
         m_13:'White paper',
 
 
-        min:'Minimum 100USDT starting.',
-        max:'A single transaction cannot exceed 5000USDT',
+        min:'Minimum 1000USDT starting.',
+        max:'A single account can not exceed 20000 computing power',
         noAccredit:'unauthorized',
         noNum:"The amount cannot be less than 0",
         copySuccee:"Copy successful!",
@@ -141,7 +145,7 @@ module.exports = {
         noMask:"Please open it using the blockchain DApp browser.",
         accredit:"Authorization succeeded!",
         time:"Countdown to dividend",
-        yu:"Enter a USDT multiple of 100",
+        yu:"Enter a USDT multiple of 1000",
         tips3:'Stay tuned!'
     }
 };
